@@ -64,52 +64,17 @@ I design and deploy intelligent data systems that bridge analytics and automatio
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <a href="http://www.github.com/animesh352">
-        <img src="https://github-readme-stats.vercel.app/api?username=animesh352&show_icons=true&hide=issues&count_private=true&title_color=ef4444&text_color=ef4444&icon_color=ef4444&bg_color=312e81&hide_border=true" alt="animesh352's GitHub stats" />
-      </a>
-    </td>
-    <td>
-      <a href="http://www.github.com/animesh352">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=animesh352&stroke=ef4444&background=312e81&ring=ef4444&fire=ef4444&currStreakNum=ef4444&currStreakLabel=ef4444&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
+| | |
+|:---:|:---:|
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=animesh352&show_icons=true&hide=issues&count_private=true&title_color=ef4444&text_color=ef4444&icon_color=ef4444&bg_color=312e81&hide_border=true)](https://github.com/animesh352) | [![GitHub Streak](https://streak-stats.demolab.com/?user=animesh352&stroke=ef4444&background=312e81&ring=ef4444&fire=ef4444&currStreakNum=ef4444&currStreakLabel=ef4444&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true)](https://github.com/animesh352) |
 
-<a href="https://github.com/animesh352">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animesh352&langs_count=10&title_color=ef4444&text_color=ef4444&icon_color=ef4444&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" />
-</a>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=animesh352&langs_count=10&title_color=ef4444&text_color=ef4444&icon_color=ef4444&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact)](https://github.com/animesh352)
 
 ---
 
 ## 📌 Top Repositories
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/animesh352/BookBot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=animesh352&repo=BookBot&title_color=ef4444&text_color=ef4444&icon_color=ef4444&bg_color=312e81&hide_border=true&locale=en" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/animesh352/StrokePredictionML">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=animesh352&repo=StrokePredictionML&title_color=ef4444&text_color=ef4444&icon_color=ef4444&bg_color=312e81&hide_border=true&locale=en" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/animesh352/Intelligent-Document-Classification">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=animesh352&repo=Intelligent-Document-Classification&title_color=ef4444&text_color=ef4444&icon_color=ef4444&bg_color=312e81&hide_border=true&locale=en" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/animesh352/AI_Agents">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=animesh352&repo=AI_Agents&title_color=ef4444&text_color=ef4444&icon_color=ef4444&bg_color=312e81&hide_border=true&locale=en" />
-      </a>
-    </td>
-  </tr>
-</table>
+| | |
+|:---:|:---:|
+| [![BookBot](https://github-readme-stats.vercel.app/api/pin/?username=animesh352&repo=BookBot&title_color=ef4444&text_color=ef4444&icon_color=ef4444&bg_color=312e81&hide_border=true)](https://github.com/animesh352/BookBot) | [![StrokePredictionML](https://github-readme-stats.vercel.app/api/pin/?username=animesh352&repo=StrokePredictionML&title_color=ef4444&text_color=ef4444&icon_color=ef4444&bg_color=312e81&hide_border=true)](https://github.com/animesh352/StrokePredictionML) |
+| [![Intelligent-Document-Classification](https://github-readme-stats.vercel.app/api/pin/?username=animesh352&repo=Intelligent-Document-Classification&title_color=ef4444&text_color=ef4444&icon_color=ef4444&bg_color=312e81&hide_border=true)](https://github.com/animesh352/Intelligent-Document-Classification) | [![AI_Agents](https://github-readme-stats.vercel.app/api/pin/?username=animesh352&repo=AI_Agents&title_color=ef4444&text_color=ef4444&icon_color=ef4444&bg_color=312e81&hide_border=true)](https://github.com/animesh352/AI_Agents) |
