@@ -1,80 +1,96 @@
-Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> My name is Animesh Giri
-====================================================================================================================================
+<div align="center">
 
-## Data Scientist / AI Engineer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Animesh+Giri+%F0%9F%91%8B;Data+Scientist+%7C+AI+Engineer;Machine+Learning+%7C+LLMs+%7C+MLOps;Building+Intelligent+Systems" alt="Typing SVG" />
 
-I design and deploy intelligent data systems that bridge analytics and automation, with experience in machine learning, large language models, and scalable data infrastructure. Passionate about solving real-world problems through clean, efficient solutions in AI, data science, and data engineering.
+<br/>
 
-- 🌍 Based in Boston, MA
-- ✉️ Reach me at [animesh.giri2000@gmail.com](mailto:animesh.giri2000@gmail.com)
-- 🧠 Currently learning Agentic AI
-- 🤝 Open to collaborating on Data Science and AI projects
+[![Profile Views](https://komarev.com/ghpvc/?username=animesh352&color=ef4444&style=flat-square&label=Profile+Views)](https://github.com/animesh352)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-animesh--giri-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/animesh-giri)
+[![Email](https://img.shields.io/badge/Email-animesh.giri2000%40gmail.com-ef4444?style=flat-square&logo=gmail&logoColor=white)](mailto:animesh.giri2000@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-animesh352-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/animesh352)
 
----
-
-## 🛠️ Skills
-
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-  <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
-  <a href="https://store.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
-</p>
+</div>
 
 ---
 
-## 🌐 Socials
+## 🧑‍💻 About Me
 
-<p align="left">
-  <a href="https://www.github.com/animesh352" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-    </picture>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/animesh-giri" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-    </picture>
-  </a>
-</p>
+> I design and deploy intelligent data systems that bridge **analytics and automation** — with deep experience in machine learning, large language models, and scalable data infrastructure. I'm passionate about solving real-world problems through clean, efficient solutions.
+
+- 🌍 Based in **Boston, MA**
+- 🧠 Currently learning **Agentic AI**
+- 🤝 Open to collaborating on **Data Science & AI projects**
+- ✉️ Reach me at **animesh.giri2000@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**Backend & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+**Data & Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-| | |
-|:---:|:---:|
-| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=animesh352&show_icons=true&hide=issues&count_private=true&title_color=ef4444&text_color=ef4444&icon_color=ef4444&bg_color=312e81&hide_border=true)](https://github.com/animesh352) | [![GitHub Streak](https://streak-stats.demolab.com/?user=animesh352&stroke=ef4444&background=312e81&ring=ef4444&fire=ef4444&currStreakNum=ef4444&currStreakLabel=ef4444&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true)](https://github.com/animesh352) |
+[![GitHub Streak](https://streak-stats.demolab.com/?user=animesh352&theme=dark&hide_border=true&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&sideLabels=ef4444&dates=ffffff&background=0d1117&stroke=ef4444)](https://github.com/animesh352)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=animesh352&langs_count=10&title_color=ef4444&text_color=ef4444&icon_color=ef4444&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact)](https://github.com/animesh352)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=animesh352&bg_color=0d1117&color=ef4444&line=ef4444&point=ffffff&area=true&hide_border=true)](https://github.com/animesh352)
 
 ---
 
-## 📌 Top Repositories
+## 📌 Featured Projects
 
-| | |
-|:---:|:---:|
-| [![BookBot](https://github-readme-stats.vercel.app/api/pin/?username=animesh352&repo=BookBot&title_color=ef4444&text_color=ef4444&icon_color=ef4444&bg_color=312e81&hide_border=true)](https://github.com/animesh352/BookBot) | [![StrokePredictionML](https://github-readme-stats.vercel.app/api/pin/?username=animesh352&repo=StrokePredictionML&title_color=ef4444&text_color=ef4444&icon_color=ef4444&bg_color=312e81&hide_border=true)](https://github.com/animesh352/StrokePredictionML) |
-| [![Intelligent-Document-Classification](https://github-readme-stats.vercel.app/api/pin/?username=animesh352&repo=Intelligent-Document-Classification&title_color=ef4444&text_color=ef4444&icon_color=ef4444&bg_color=312e81&hide_border=true)](https://github.com/animesh352/Intelligent-Document-Classification) | [![AI_Agents](https://github-readme-stats.vercel.app/api/pin/?username=animesh352&repo=AI_Agents&title_color=ef4444&text_color=ef4444&icon_color=ef4444&bg_color=312e81&hide_border=true)](https://github.com/animesh352/AI_Agents) |
+| Project | Description |
+|--------|-------------|
+| [🤖 AI Agents](https://github.com/animesh352/AI_Agents) | Agentic AI systems built with LLMs and tool-use frameworks |
+| [📄 Intelligent Document Classification](https://github.com/animesh352/Intelligent-Document-Classification) | ML pipeline for automated document categorization |
+| [🧠 Stroke Prediction ML](https://github.com/animesh352/StrokePredictionML) | Predictive modeling for stroke risk using clinical data |
+| [📚 BookBot](https://github.com/animesh352/BookBot) | Intelligent book analysis and recommendation bot |
+
+---
+
+<div align="center">
+
+*"Building at the intersection of data, intelligence, and impact."*
+
+</div>
