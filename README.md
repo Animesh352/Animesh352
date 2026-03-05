@@ -83,7 +83,7 @@
 
 | Project | Description |
 |--------|-------------|
-| [🤖 AI Agents](https://github.com/animesh352/AI_Agents) | Agentic AI systems built with LLMs and tool-use frameworks |
+| [🤖 AI Agents](https://github.com/animesh352/AI_Agents) | Contribution to Agentic AI systems built with LLMs and tool-use frameworks |
 | [📄 Intelligent Document Classification](https://github.com/animesh352/Intelligent-Document-Classification) | ML pipeline for automated document categorization |
 | [🧠 Stroke Prediction ML](https://github.com/animesh352/StrokePredictionML) | Predictive modeling for stroke risk using clinical data |
 | [📚 BookBot](https://github.com/animesh352/BookBot) | Intelligent book analysis and recommendation bot |
