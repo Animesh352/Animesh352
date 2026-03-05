@@ -73,9 +73,9 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=animesh352&theme=dark&hide_border=true&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&sideLabels=ef4444&dates=ffffff&background=0d1117&stroke=ef4444)](https://github.com/animesh352)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=animesh352&timezone=America%2FNew_York&theme=dark&hide_border=true&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&sideLabels=ef4444&dates=ffffff&background=0d1117&stroke=ef4444)](https://github.com/animesh352)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=animesh352&bg_color=0d1117&color=ef4444&line=ef4444&point=ffffff&area=true&hide_border=true)](https://github.com/animesh352)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=animesh352&timezone=America/New_York&bg_color=0d1117&color=ef4444&line=ef4444&point=ffffff&area=true&hide_border=true)](https://github.com/animesh352)
 
 ---
 
